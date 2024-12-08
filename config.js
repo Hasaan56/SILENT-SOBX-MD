@@ -6,8 +6,8 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-    SESSION_ID: process.env.SESSION_ID || "TnwUia5b#zBNf-St0TacBifkHw19VmWbWFWP5gTm9i6WgneZJ2BI",
-    CAPTION: process.env.CAPTION || "POWERED BY SILENTLOVER432",
+    SESSION_ID: process.env.SESSION_ID || "OdAEGDDR#kWMCk9c8rQa106veT7MXKkqvraLUwRzoWTaSoLsiOqs",
+    CAPTION: process.env.CAPTION || "POWERED BY HASAAN",
     AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
     READ_MESSAGE: process.env.READ_MESSAGE || "true", // Added auto-read configuration
     MODE: process.env.MODE || "public",
@@ -15,7 +15,7 @@ module.exports = {
     AUTO_STICKER: process.env.AUTO_STICKER || "false",
     AUTO_REPLY: process.env.AUTO_REPLY || "false",
     ALIVE_IMG: process.env.ALIVE_IMG || "https://telegra.ph/file/2a06381b260c3f096a612.jpg",
-    ALIVE_MSG: process.env.ALIVE_MSG || "HII DEAR IM ONLINE I'M SILENT-SOBX-MD WHATSAPP BOT 😊♻️",
+    ALIVE_MSG: process.env.ALIVE_MSG || "HII DEAR IM ONLINE I'M HASAAN-G-MD WHATSAPP BOT 😊♻️",
     ANTI_LINK: process.env.ANTI_LINK || "true",
     ANTI_BAD: process.env.ANTI_BAD || "true",
     PREFIX: process.env.PREFIX || ".",
